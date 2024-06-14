@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/warwick-stats-resources/warwick-stats-resources.r-universe.dev
 	branch = HEAD
+[submodule "warwickplots"]
+	path = warwickplots
+	url = https://github.com/Warwick-Stats-Resources/warwickplots
